@@ -37,6 +37,7 @@ tags: [link, bagus, web]
 <li>http://finance.detik.com/read/2016/03/21/080217/3169205/1016/ingin-beli-tanah-pahami-dulu-5-hal-penting-ini
 <li>http://kisahikmah.com/rahasia-agar-mati-husnul-khatimah/
 <li>http://finance.detik.com/read/2016/03/24/073006/3172063/1016/10-biaya-tambahan-dalam-jual-beli-rumah
+<li>https://github.com/futurice/android-best-practices
  </ul>
 <br />
 -<br />
