@@ -38,6 +38,10 @@ tags: [link, bagus, web]
 <li>http://kisahikmah.com/rahasia-agar-mati-husnul-khatimah/
 <li>http://finance.detik.com/read/2016/03/24/073006/3172063/1016/10-biaya-tambahan-dalam-jual-beli-rumah
 <li>https://github.com/futurice/android-best-practices
+<li>http://www.vogella.com/tutorials/Android/article.html
+<li>http://www.androidhive.info/
+<li>https://www.udacity.com/course/developing-android-apps--ud853
+<li>https://plus.google.com/communities/105153134372062985968
  </ul>
 <br />
 -<br />
